@@ -3,7 +3,9 @@
 ### Ссылка на гугл-колаб с [Питоном](https://colab.research.google.com/drive/1oedtP8Q--ZXmKRONEs9SgGXBzyZ5gNOJ?usp=sharing) и с [R-ом](https://colab.research.google.com/drive/10iJhGlhQq-J0sfvddhuO5TjoOIWinrX7?usp=sharing)
 
 ### Скриншоты из MultiQC 
+#### Sequence counts
 ![Alt Sequence counts](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_sequence_counts_plot%20(1).png)
+#### Mean Quality Scores
 ![Alt Mean Quality Scores](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_base_sequence_quality_plot%20(1).png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_sequence_quality_scores_plot.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_sequence_gc_content_plot.png)
@@ -15,8 +17,11 @@
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/allstats.png)
 #### Таблица была сделана в Аре по данным из колабов (можно посмотреть в колабе с Аром, данные в питон-колабе )
 ### Графики из анализа DESeq2
+#### MA-plot
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/plotMA.png)
+#### Heat map
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheat_map.png)
+#### Heat map for genes
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheatmap.png)
 #### Графики для двух генов, которые наиболее значимо поменяли свою экспрессию
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_1.png)
