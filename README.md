@@ -15,8 +15,8 @@ hse21_hw3
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/allstats.png)
 #### Таблица была сделана в Аре по данным из колабов (можно посмотреть в колабе с Аром, данные в питон-колабе )
 ### Графики из анализа DESeq2
-[](https://github.com/dannygrig/hse21_hw3/blob/main/images/plotMA.png)
-[](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheat_map.png)
-[](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheatmap.png)
-[](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_1.png)
-[](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_2.png)
+![](https://github.com/dannygrig/hse21_hw3/blob/main/images/plotMA.png)
+![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheat_map.png)
+![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheatmap.png)
+![](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_1.png)
+![](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_2.png)
