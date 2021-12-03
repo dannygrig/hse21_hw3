@@ -1,5 +1,5 @@
-# hse21_hw3
-hse21_hw3
+# Домашнее задание №3
+Григорьев Даниил 4 группа
 ### Ссылка на гугл-колаб с [Питоном](https://colab.research.google.com/drive/1oedtP8Q--ZXmKRONEs9SgGXBzyZ5gNOJ?usp=sharing) и с [R-ом](https://colab.research.google.com/drive/10iJhGlhQq-J0sfvddhuO5TjoOIWinrX7?usp=sharing)
 
 ### Скриншоты из MultiQC 
@@ -18,5 +18,6 @@ hse21_hw3
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/plotMA.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheat_map.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheatmap.png)
+#### Графики для двух генов, которые наиболее значимо поменяли свою экспрессию
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_1.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_2.png)
