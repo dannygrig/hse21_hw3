@@ -3,8 +3,8 @@ hse21_hw3
 ### Ссылка на гугл-колаб с [Питоном](https://colab.research.google.com/drive/1oedtP8Q--ZXmKRONEs9SgGXBzyZ5gNOJ?usp=sharing) и с [R-ом](https://colab.research.google.com/drive/10iJhGlhQq-J0sfvddhuO5TjoOIWinrX7?usp=sharing)
 
 ### Скриншоты из MultiQC 
-![Sequence counts](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_sequence_counts_plot%20(1).png)
-![Mean Quality Scores](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_base_sequence_quality_plot%20(1).png)
+![Alt Sequence counts](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_sequence_counts_plot%20(1).png)
+![Alt Mean Quality Scores](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_base_sequence_quality_plot%20(1).png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_sequence_quality_scores_plot.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_sequence_gc_content_plot.png)
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/fastqc_per_base_n_content_plot.png)
