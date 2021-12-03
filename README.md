@@ -13,3 +13,10 @@ hse21_hw3
 ### Отчёты [MultiQC](https://github.com/dannygrig/hse21_hw3/blob/main/images/multiqc_report.html) и [FastQC_629](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414629_1_fastqc.html), [FastQC_630](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414630_1_fastqc.html), [FastQC_631](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414631_1_fastqc.html), [FastQC_635](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414635_1_fastqc.html), [FastQC_636](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414636_1_fastqc.html), [FastQC_637](https://github.com/dannygrig/hse21_hw3/blob/main/images/SRR3414637_1_fastqc.html)
 ### Таблица со статистикой всех образцов
 ![](https://github.com/dannygrig/hse21_hw3/blob/main/images/allstats.png)
+#### Таблица была сделана в Аре по данным из колабов (можно посмотреть в колабе с Аром, данные в питон-колабе )
+### Графики из анализа DESeq2
+[](https://github.com/dannygrig/hse21_hw3/blob/main/images/plotMA.png)
+[](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheat_map.png)
+[](https://github.com/dannygrig/hse21_hw3/blob/main/images/pheatmap.png)
+[](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_1.png)
+[](https://github.com/dannygrig/hse21_hw3/blob/main/images/normalized_counts_2.png)
